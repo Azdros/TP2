@@ -30,4 +30,4 @@ void main(){
     }
 }
 /*Pour N = 10 : durée de 0.276s
-Pour N = 100 : durée trop longue pour la mesurer durant la séance/*
+Pour N = 100 : durée trop longue pour la mesurer durant la séance*/
